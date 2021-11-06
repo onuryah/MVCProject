@@ -23,7 +23,7 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
         let alparslan = Leaders(name: "Alparslan", comment: "He opened the Anatolia's-where we live- Gates to Turks.", image: UIImage(named: "alparslan")!)
         let fatih = Leaders(name: "Fatih Sultan Mehmet", comment: "He get the Istanbul that can't be destroyed city from Byzantium at 21!", image: UIImage(named: "fatih")!)
         let lelouch = Leaders(name: "Lelouch Vi Britannia", comment: "He gives the freedom to all the world!", image: UIImage(named: "lelouch")!)
-        let putin = Leaders(name: "Viladimir Putin", comment: "He rebuild his country.", image: UIImage(named: "putin")!)
+        let putin = Leaders(name: "Vladimir Putin", comment: "He rebuild his country.", image: UIImage(named: "putin")!)
         
         leadersArray.append(atatürk)
         leadersArray.append(cengizhan)
